@@ -3,8 +3,6 @@
 
 🌱 I’m currently learning Life
 
-----
-
 📌 [Notion]()
 
 ----
