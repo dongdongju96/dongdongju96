@@ -1,7 +1,6 @@
 ### I'm Dongju 👋
 
 
-----
 🌱 I’m currently learning
 
 
