@@ -3,9 +3,9 @@
 
 🌱 I’m currently learning Life
 
-📌 [Notion]()
+<!-- 📌 [Notion]() -->
 
-----
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongdongju96)](https://github.com/dongdongju96)
 
 <!--
