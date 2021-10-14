@@ -1,5 +1,5 @@
 ### I'm Dongju 👋
-🌱 I’m currently learning Life
+#🌱 I’m currently learning Life
 ----
 
 
