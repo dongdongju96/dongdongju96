@@ -3,7 +3,6 @@
 
 🌱 I’m currently learning Life
 
-🔥 화이팅
 <!-- 📌 [Notion]() -->
 
 
