@@ -1,10 +1,8 @@
 ### Dongju
 
-a constantly challenging engineer 🔥
-
-- I want to be a Data handling expert
-- I'm working at startup [core.today](https://core.today/home) now 🚀
-
+- I'm interested in Data-Driven Decsion-Making
+- I was worked at [core.today](https://core.today) in 21.04-24.04
+- I worked on [a toy image recognition project](https://core.today/news/project/kogongjang/toyimageanalysis) with an 코끼리공장.
 
 <!-- 📌 [Notion]() -->
 
