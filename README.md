@@ -1,8 +1,9 @@
 ### Dongju
 
-- I'm interested in Data-Driven Decsion-Making
-- I was worked at [core.today](https://core.today) in 21.04-24.04
-- I worked on [a toy image recognition project](https://core.today/news/project/kogongjang/toyimageanalysis) with an 코끼리공장.
+- I'm interested in Data-Driven Decision-Making
+- I worked at [core.today](https://core.today) in 21.04-24.04
+- I worked on [a toy image recognition project](https://core.today/news/project/kogongjang/toyimageanalysis) in collaboration with 코끼리공장.
+- I am currently working at Daeyang Electric Co., Ltd.,
 
 <!-- 📌 [Notion]() -->
 
